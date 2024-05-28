@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for
-from chatterbot import ChatBot
-from chatterbot.trainers import ListTrainer
+# from chatterbot import ChatBot
+# from chatterbot.trainers import ListTrainer
 
 # Create a new instance of a ChatBot
 # bot = ChatBot('SurveyBot')
